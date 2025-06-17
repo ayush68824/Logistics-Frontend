@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.js": "/Logistics-Frontend/static/js/main.83f2e350.js",
+    "main.js": "/Logistics-Frontend/static/js/main.ee9709a3.js",
+    "static/js/239.dfdb0d71.chunk.js": "/Logistics-Frontend/static/js/239.dfdb0d71.chunk.js",
     "static/js/213.042bb37f.chunk.js": "/Logistics-Frontend/static/js/213.042bb37f.chunk.js",
     "static/js/455.007de860.chunk.js": "/Logistics-Frontend/static/js/455.007de860.chunk.js",
     "static/js/453.d855a71b.chunk.js": "/Logistics-Frontend/static/js/453.d855a71b.chunk.js",
     "index.html": "/Logistics-Frontend/index.html",
-    "main.83f2e350.js.map": "/Logistics-Frontend/static/js/main.83f2e350.js.map",
+    "main.ee9709a3.js.map": "/Logistics-Frontend/static/js/main.ee9709a3.js.map",
+    "239.dfdb0d71.chunk.js.map": "/Logistics-Frontend/static/js/239.dfdb0d71.chunk.js.map",
     "213.042bb37f.chunk.js.map": "/Logistics-Frontend/static/js/213.042bb37f.chunk.js.map",
     "455.007de860.chunk.js.map": "/Logistics-Frontend/static/js/455.007de860.chunk.js.map",
     "453.d855a71b.chunk.js.map": "/Logistics-Frontend/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.83f2e350.js"
+    "static/js/main.ee9709a3.js"
   ]
 }
